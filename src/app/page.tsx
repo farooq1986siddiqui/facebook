@@ -14,7 +14,7 @@ export default function Home() {
               <input className='my-2 border border-1 border-slate-200 p-3 rounded-md focus:outline-1 outline-blue-400' type='password' placeholder='Enter password' />
               <button className='bg-blue-600 my-2 py-2 text-lg font-bold text-white rounded-md hover:bg-blue-700'>Log In</button>
               <p className='cursor-pointer text-blue-600 text-sm my-2 text-center hover:underline
-              '>Forgotten Passward?</p>
+              '>Forgotten account? · Sign up for Facebook</p>
               <span className='my-2'>
                 <hr/>
               </span>
